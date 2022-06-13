@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.96edcb3c.chunk.css",
-    "main.js": "/static/js/main.be0ecf8a.chunk.js",
-    "main.js.map": "/static/js/main.be0ecf8a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8be65647.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8be65647.js.map",
-    "static/js/2.5cc4025b.chunk.js": "/static/js/2.5cc4025b.chunk.js",
-    "static/js/2.5cc4025b.chunk.js.map": "/static/js/2.5cc4025b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.96edcb3c.chunk.css.map": "/static/css/main.96edcb3c.chunk.css.map",
-    "static/js/2.5cc4025b.chunk.js.LICENSE.txt": "/static/js/2.5cc4025b.chunk.js.LICENSE.txt"
+    "main.css": "/QuoteApp/static/css/main.96edcb3c.chunk.css",
+    "main.js": "/QuoteApp/static/js/main.be0ecf8a.chunk.js",
+    "main.js.map": "/QuoteApp/static/js/main.be0ecf8a.chunk.js.map",
+    "runtime-main.js": "/QuoteApp/static/js/runtime-main.ac02f91e.js",
+    "runtime-main.js.map": "/QuoteApp/static/js/runtime-main.ac02f91e.js.map",
+    "static/js/2.5cc4025b.chunk.js": "/QuoteApp/static/js/2.5cc4025b.chunk.js",
+    "static/js/2.5cc4025b.chunk.js.map": "/QuoteApp/static/js/2.5cc4025b.chunk.js.map",
+    "index.html": "/QuoteApp/index.html",
+    "static/css/main.96edcb3c.chunk.css.map": "/QuoteApp/static/css/main.96edcb3c.chunk.css.map",
+    "static/js/2.5cc4025b.chunk.js.LICENSE.txt": "/QuoteApp/static/js/2.5cc4025b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8be65647.js",
+    "static/js/runtime-main.ac02f91e.js",
     "static/js/2.5cc4025b.chunk.js",
     "static/css/main.96edcb3c.chunk.css",
     "static/js/main.be0ecf8a.chunk.js"
